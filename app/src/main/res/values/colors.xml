@@ -9,4 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="primary">#286CA1</color>
     <color name="secundario">#FF5722</color>
+    <color name="labratsbg">#f37b63</color>
+    <color name="darklabrats">#4d4d4d</color>
 </resources>
